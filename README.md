@@ -11,9 +11,12 @@ Exercício da disciplina de **Sistemas de Informação**.
 2. Abre o **Google Chrome** pelo menu Iniciar e **maximiza** a janela
 3. Digita **youtube.com** na barra de endereço
 4. Clica em **Fazer login** (e em **Usar outra conta**, se o Google mostrar a escolha de contas)
-5. Digita o e-mail e a senha
-6. Clica na caixa **Pesquisar** do YouTube e busca *metallica whisky in the jar*
-7. Clica no vídeo da música
+5. Digita o e-mail
+6. Se o Google pedir a confirmação **"Não sou um robô"**, espera você resolver (até 2 minutos)
+7. Digita a senha
+8. Se o Google pedir outra verificação (por exemplo, um **código por SMS**), espera você concluir (até 3 minutos)
+9. Clica na caixa **Pesquisar** do YouTube e busca *metallica whisky in the jar*
+10. Clica no vídeo da música
 
 Os botões são encontrados **pela imagem**, não por coordenadas fixas: o script procura na tela
 os recortes `.png` e clica no centro deles. Assim ele continua funcionando mesmo que o botão
