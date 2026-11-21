@@ -55,6 +55,13 @@ Como o login é digitado por um programa, o Google pode pedir uma confirmação:
 precisam ser resolvidas por você. O script **espera** você resolver no Chrome e continua sozinho
 em seguida.
 
+## Demonstração 
+
+https://github.com/user-attachments/assets/48afb508-e3e3-44ec-b20b-9b3ffa1fd48f
+
+https://github.com/user-attachments/assets/86414029-fdda-42ff-aae2-5a0bbbea41d7
+
+
 ## Arquivos
 
 | Arquivo | Conteúdo |
